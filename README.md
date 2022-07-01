@@ -1,1 +1,1 @@
-# git-init-samplee
+# git-init-sample
